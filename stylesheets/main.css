@@ -1,0 +1,56 @@
+h1 {
+  text-align: left;
+  color: white;
+  font-size: 40;
+  font-family: arial;
+  font-weight: bold;
+  background-color: darkred;
+  padding-top: 24px;
+  padding-right: 25px;
+  padding-bottom: 24px;
+  padding-left: 80px;
+}
+h2 {
+  text-align: right;
+  color: white;
+  font-size: 14;
+  font-family: times;
+  background-color: gray;
+  padding-top: 22px;
+  padding-right: 90px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+}
+a {
+  color: white;
+  font-size: 14;
+  font-family: times;
+}
+
+div {
+  background-color: white;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+h3 {
+  font-size: 30;
+  font-family: arial;
+  font-weight: bold;
+  padding-top: 150px;
+  padding-left: 50px;
+}
+p {
+  font-size: 18;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+.right {
+  text-align: right;
+  color: black;
+  font-weight: bold;
+  font-size: 25;
+  font-family: times;
+  padding-right: 100px;
+}
